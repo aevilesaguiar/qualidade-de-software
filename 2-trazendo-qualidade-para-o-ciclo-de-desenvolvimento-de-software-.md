@@ -93,3 +93,160 @@ Faz parte de um grande profissional, de um grande desenvolvedor, de um grande ar
 Durante o processo de desenvolvimento, podem surgir, falhas, vão surgir, bugs, erros, naquele software, e o time de desenvolvimento deve ser capaz de conseguir identificar, corrigir esses problemas, e não importa de onde ele venha, pode vir de um outro time, pode vir de um outro desenvolvedor, pode vir de cliente. A ideia é que a gente vá construindo e garantindo que esse software ele fique com o mínimo de falhas,
 
 O PO diz o quê, e os devs vão analisando e vendo como vai construindo. 
+
+
+<img width="553" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/b4d9dad9-b211-47c0-9e76-d510a0e1a863">
+
+A criar, executar e manter testes.Criar e manter scripts, tudo envolvendo teste, principalmente na camada end2end  com o olhar de usuário, e também apoiar os desenvolvedores, auxiliando testes de unidade.
+Identificar e relatar defeitos, o QA tem uma visão apurada para achar e relatar defeitos.
+
+
+<img width="587" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/fae9bf05-e746-45ec-8060-1f2edc3afa1a">
+
+
+**Modelo Cascata X ÁGIL**
+
+Ele é o modelo que durante muitos anos foi o que dominou a forma como se desenvolvia software.
+
+Ele é dividido em cinco etapas.
+
+<img width="490" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/25ec09a6-a06e-4a84-91d0-31bf7f6112cb">
+
+A primeira delas é a parte de requerimento, que é onde a gente faz o levantamento dos requisitos. E através de entrevistas, através de reuniões com o cliente, a gente levanta os requisitos, tenta entende quais são as expectativas do cliente, define quais são as funcionalidades que aquele sistema tem que ter para que a gente possa implementar e resolver solucionar o que o cliente precisa.
+
+A fase de requerimento é extremamente importante, porque é onde vai ter tudo o que o sistema vai precisar para que solucione o problema do cliente e todas as funcionalidades que precisar ter.
+
+Saindo dessa parte e considerando que temos todos os documentos com os requisitos, entramos numa segunda fase, que é a parte de design, que em algumas literaturas se chama de planejamento, ou seja onde  realmente vemos as etapas que precisam ser feitas para desenvolver o software.Se CRIA um cronograma, define se quais são as tarefas com base naqueles requisitos criados no requerimento. Monta-se o time de desenvolvimento, divide ele, modela a interface,a  Arquitetura, define a linguagem de desenvolvimento.
+
+Temos um mapa do processo de desenvolvimento que vai ser utilizado na etapa seguinte, que é a parte de implementação. E nessa etapa é onde realmente acontece a mão na massa do time de desenvolvimento, dos programadores e arquitetos de acordo com a fase 1.Implementação fase de codar.
+
+Verificação/teste para ver se o software obteve o objetivo definido nos requisitos, estressar o sistema, colocar o chapéu de usuário. 
+
+Manutenção é o momento o qual o software vai para produção e o cliente testa para ele validar .
+
+<img width="401" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/a1f6ec9f-a436-4463-8353-a4dc3b793277">
+
+
+**Pair Programing**
+<img width="611" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/e63e986f-85db-4d0b-ba0e-72a7eefa562f">
+
+<img width="512" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/f5465fda-08e6-4997-a583-015a76bd8127">
+
+sempre tem uma troca de papéis, o navegador se torna piloto, e o piloto se torna navegador, eles sempre discutem enquanto desenvolvem, sempre se comunicam.
+
+é importante manter a etapa de code review
+
+<img width="334" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/bb5bd94b-9bf8-4954-844c-43d9d0446ec3">
+
+Solução otimizada, duas pessoas pensando no mesmo problema.
+
+**Desk Check**
+
+<img width="526" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/4f5fbafa-851c-480c-8423-2430ab753d73">
+
+O desk check deve ser feito após a conclusão do desenvolvimento pelo o dev. O objetivo é conformar se os crtérios de aceite foram atendidos.
+
+<img width="587" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/e5a11b04-12a2-45b3-a0bb-db6c1f2b279d">
+
+O desk Check ocorre depois do desenvolvimento e antes do code review
+<img width="626" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/4032cef0-c9aa-4794-a5ac-7e6e0052b79a">
+
+é bem comum ter um check list para perguntar durante a reunião? se pergunta o que você já fez, cobriu todos os requisitos da História? foi testado manualmente?
+foi verificado que aquela história impacta em algum abbiente, foi confirmado se a jornada do cliente foi completamente testada?
+
+Estamos aqui para entregar solução e não tarefa, precisa completar a jornada, a História completa. Se foi testado todos os caminhos alternativos pelo o desenvolvedor e não só o caminho feliz.
+Se a História precisa de uma correção.
+
+
+**Shift Left Testing**
+
+<img width="569" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/a0164ed7-c1db-408b-9045-240cce9450fb">
+
+<img width="543" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/cc83f984-5035-452d-91c4-627f29c32cc4">
+
+Conforme vimos acima no Ciclo de Desenvolvimento do Software + Devops
+
+<img width="543" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/7c442d0c-585f-477e-aca6-4461f7f58a07">
+
+
+E aí, trazendo essa imagem novamente, a gente vê que o teste ele está aqui nesse momento apenas, e já se passaram vários processos antes de chegar na etapa de teste.
+
+E o que o Shift left test diz? Ele defende que a abordagem de teste precisa começar o quanto antes, seja na etapa de design codificação. Então quanto antes eu trazer ela a esquerda para iniciação da atividade de teste, por exemplo no "analisys and code"
+
+No nome dessa  abordagem trás testing , mas não necessariamente estamos falando de executar os testes de fato, você pode estar aplicando mais qualidade utilizando alguns tipos de ferramentas, Por exemplo: o TDD, o BDD essas abordagens trabalham antes na etapa de "analysis and code" isso tudo nos ajuda a trazer mais qualidade para o produto final.
+
+assim conseguimos prever diversos problemas.
+
+<img width="613" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/bace0d6b-63d0-458b-8041-e1756205182d">
+
+quanto mais ráído eu encontro um problema, mais rápido eu corijo.
+
+
+**Quadrate de teste Ágil**
+
+<img width="498" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/ac26ab57-bde6-40fe-9c76-f9ad6316e64d">
+
+No quadrante Q1 é realizado mais pelos os desenvolvedores, sempre quando pensamos num teste de unidade ou  de componente devemos optar por automatizar, veja a indicação da nuvem. São testes que rodam de forma rápida, te dão um feedback rápido. por isso precisa ser automatizado.
+
+o segundo quadrante Q2 ele é mais focado no funcional. Servem muito de apoio para o time de desenvolvimento mais num nível funcional, ou seja verificando software a um nível de critério de aceite, uma visão mais voltada para o cliente, está avaliando se o que foi desenvolvido está alinhado com o negócio. Podem ser executado de forma manual ou automatizada, vai depender da necessidade
+
+indo para o terceiro quadrante Q3, tem mais uma visão de explorar o sistema, descobrir novos cenários, esses testes são bem manuais, com a visão do usuário, pode ser um QA , um BI , um cliente.
+
+Indo para o 4 quadrante Q4, está focado nas tecnologias que vem para apoiar o nosso negócio, são ferramentas, o foco é garantir o desempenho, segurança, que não esteja focado apenas no funcional. 
+
+**TDD-Test Driven Development**
+
+Desenvolvimento Guiado por teste, primeiro testa depois desenvolve.
+
+<img width="553" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/0bdfdcd1-102d-48b9-a799-ebeff1ddb57c">
+
+Primeiro cria os testes unitários, e ser guiado não apenas pela expertise do dev e sim pelo o teste.
+
+Exemplo, o desenvolvedor precisa implementar uma calculadora:
+
+<img width="554" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/26c3b49b-3235-4c54-bb75-e5b61caf8cb5">
+
+<img width="596" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/647a9de1-dd00-4f29-a9f6-743ab4c9d322">
+
+1 falha por que o código não está criado, só após o item dois ser criado que é possivel compilar.
+
+<img width="603" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/82b312b0-a457-4a65-b02b-f36aede7187c">
+
+**BDD - Behavior Driven Development**
+
+<img width="605" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/96294636-8cd1-4b4f-885e-3c91a168fbea">
+
+<img width="578" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/b58837e3-3d28-4c8c-bc4b-f36963f5fb3a">
+
+<img width="623" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/e13ae74f-aeb1-4893-af81-06987e4d80ef">
+
+<img width="491" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/e592c528-a676-44ce-b05a-095489e788fd">
+
+BDD não é dado, quando então(linguagem GERKIN) ,não é a descrição da funcionalidade, não é a automação, na verdade é a cerimônia entre os envolvidos para 
+entender como a aplicação deve se comportar, e o output é essa documentação;
+
+Ganhos para se incorporar essa cerimônia dentro do time:
+
+<img width="595" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/b8b63351-c0fc-4bb9-ac5a-6db3e2f21433">
+
+
+Quando eu digo que estou desenvolvendo guiado por comportamento, quer dizer que o meu numero 1 é o resultado, é o que eu espero que a minha aplicação faça. 
+Eu não estou desenvolvendo código baseado no que eu sei, mas numa documentação de comportamento que é o BDD.
+
+Quando eu estou numa cerimonia de BDD eu tiro todas as dúvidas; Tenho uma documentação mais especifica além da jornada
+
+O cucumber é uma ferramenta que significa pepino e ele é um framework que trabalha com a linguagem GERKIN (DADO, QUANDO , ENTÃO) ele nos possibilita automatizar esses cenários com essa  linguagem.
+
+
+**ATDD - Acceptance Test Driven Development**
+
+<img width="572" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/83d4b45f-d339-4a6a-88d3-4568cc57313d">
+
+ATDD valida o comportamento do sistema, olhando bem para a parte funcional. O objetivo aqui é criar especificações executáveis. Essas epecificações vem surgindo através de discussões entre o time de desenvolvimento, QA, Stakeholders , time de negócios.
+
+Ela é dividida em 4 partes:
+
+- 1. Debater: o time de desenvolvimento se junta com as partes interessadas do negócio e eles entram num discussão, o time de desenvolvimento tem que desenvolver a compreensão do sistema pelo o ponto de vista do usuário. Com base nesse entendimento será criado os testes de aceitação,  durante essa fase de discussão a equipe tem a oportunidade de esclarecer os mals entendidos, é uma reunião para sair sem dúvidas, todas as duvidas devem ser clarificadas, para que nao coloque um bug no sistema. Essa fase serve para que todos estejam na mesma página, com relação a funcionalidade que será entregue. E  o resultado é ter esses testes de aceitação em forma de frases, para que seja compreendido por todos da organização.
+  2. Refinar: nessa etapa convertemos os nossos testes que são produzidos na etapa anterior, colocando eles num framework, fazendo com que eles sejam executáveis, nesse momento garantimos que os testes não sejam só uma especificação, uma frase, e sim algo executável dentro do projeto. Esses testes vão falhar, por que até então estamos olhando só para os testes. As funcionalidades não existem esse é o momento que estamos utilizando o que agente debateu na fase anterior e transformando aquilo em um teste executável.
+  3. Desenvolver:  durante essa fase o time de desenvolvimento vai executar os testes, verificar o que está causando erro  e em seguida escrever o código, o pensamento é similar ao TDD, mas o foco é o comportamento do sistema, no ponto de vista do usuário, aceitação;
+  4. Revisão: ou demonstração, envolve as pessoas interessadas, aqui identificamos os testes ue foram realizados, as vulnerabilidade que foram identificadas, validar se o objetivo inicial da fase de debate conseguimos concluir.
