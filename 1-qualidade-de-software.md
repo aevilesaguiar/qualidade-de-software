@@ -21,6 +21,21 @@ Qual o objetivo do teste?
 
 <img width="443" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/5ff84065-4e01-4f7b-8817-4cde70baf888">
 
+**Os 7 Principios de teste**
+
+1 - O teste mostra a presença, não a ausencia de defeitos (mesmo que nenhum defeito seja encontrado não podemos afirmar que não há defeitos)
+2 - Testes exaustivos são impossiveis (é caro e inútil testar uma quantidade enorme de dados, é importante usar técnicas justamente para escolher uma quantidade menor de testes e que ela seja mais eficiente que um teste exaustivo)
+3 - Testes antecipados economizam tempo e dinheiro (quando os defeitos são encontrados no inicio do processo, ou seja na fase de requisitos,  e muito mais barato, agente não terá feito nenum tipo de implementação, nenum teste, não terá feito nada que tenha envolvido o time de desenvolvedor)
+4 - Os defeitos se agrupam (o principio de pareto diz que o numero pequeno de compnentes do sistema geralmente contém a maioria das falhas, esse numero é 20% dos componentes, que contém 80% das falhas);
+5 - Os defeitos se degradam, assim como os sistemas se atualizam, nós temos que dar manutenção nos nossos testes
+6 - Os testes dependem do contexto 
+7 - Falácia da ausência de defeitos ( não significa que aquele sistema terá sucesso)
+
+
+
+
+
+
 quanto mais testando, mais confiança vamos criando, diminui nossos problemas;
 
 
