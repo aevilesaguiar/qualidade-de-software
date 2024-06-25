@@ -73,10 +73,40 @@
 
 OS ARTEFATOS DA CERIMÔNIA BDD SÃO A ESCRITA DOS CENÁRIOS EM GERKIN
 
-**TESTES- IDENTIFICANDI TESTES E NÍVEIS DE TESTE**
+
+
+**TESTES- IDENTIFICANDO TESTES E NÍVEIS DE TESTE**
+
 
 OLHAR A FUNCIONALIDADE DE ADICIONAR, E CRIAR FRASES SIMPLES, VERIFICAR JUNTO COM O PO/TIME
 
 <img width="424" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/ca67f504-cb56-463d-aacc-7db2b6e9fa7c">
 
+
 <img width="424" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/caeda60a-744d-43ce-9ba1-285479d3929a">
+
+
+<img width="539" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/fdb7a883-2893-4bce-8348-a3722d46bc64">
+
+
+<img width="533" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/7e617c99-6909-4ec5-9fcb-e49d2201ecbe">
+
+
+**APLICANDO TÉCNICAS DE TESTE**
+
+
+<img width="607" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/88deb22e-1ecb-4fe4-9034-e5112434400b">
+
+
+<img width="629" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/7ab76e1f-691f-44db-93bc-90e7f95fe025">
+
+
+<img width="627" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/fdadce1e-4559-4a1a-9496-b153d2786e6c">
+
+
+<img width="631" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/cdf7bab4-b2c7-41f0-831f-b02a65a5dd1c">
+
+ATRAVÉS DESSA TÉCNICA PODEMOS ENXERGAR TODO O FLUXO.SÃO VÁRIOS CAMINHOS.
+
+<img width="602" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/2ed96f1b-dd7a-4c18-a82e-eaa54c7b168a">
+
