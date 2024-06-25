@@ -47,3 +47,24 @@ Plano de ação, identificar para saber o que fazer para esse risco não ocorrer
 <img width="477" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/ce3cfa8f-1853-43ba-a5d5-2388fc947bbe">
 
 <img width="580" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/230c8872-d9be-489f-b07a-64de2bf3bc13">
+
+**Gerenciamento de inconsistencia**
+
+<img width="563" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/8e1c7001-4588-4288-b0a9-22e25e7f9863">
+
+Uma interrupção não planejada é quando o cliente não consegue realizar a ação que ele gostaria, 
+Redução da qualidade, eu demora 2 segundos para salvar uma página agora leva 8 segundos
+Não conformidade com os requisitos, um calculo que não está sendo executado, eque tenha sido solicitada pela área de negócios.
+
+<img width="604" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/4209da34-21e0-4658-a1a9-a569983b4575">
+
+
+<img width="587" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/e13c2fdc-62a7-449f-ad95-3650bd703e49">
+
+
+<img width="569" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/ce72d26e-296c-4c9e-87c3-2902bb110b21">
+
+<img width="601" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/fd278f87-8b31-4908-961f-b947f761b249">
+
+
+
