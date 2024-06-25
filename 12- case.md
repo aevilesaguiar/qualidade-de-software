@@ -110,3 +110,22 @@ ATRAVÉS DESSA TÉCNICA PODEMOS ENXERGAR TODO O FLUXO.SÃO VÁRIOS CAMINHOS.
 
 <img width="602" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/2ed96f1b-dd7a-4c18-a82e-eaa54c7b168a">
 
+
+**selecionar o que automatizar**
+
+<img width="536" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/deff5728-e6c6-4e3f-8867-200cc3aefe6c">
+
+**Cobertura com Smoke Test**
+
+Smoke teste, é o caminho que nunca vai poder falhar, é o caminho crítico.
+
+<img width="363" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/0b593e17-fd51-4796-8cb7-8f7996c239f1">
+
+<img width="440" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/926b156e-dc37-42c4-83bd-bd21d9a78f23">
+
+<img width="338" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/6c928628-ef48-4a4e-8bf0-0dfe579eb62b">
+
+<img width="430" alt="image" src="https://github.com/aevilesaguiar/qualidade-de-software/assets/52088444/7a7a42e6-90e8-4c14-9a3f-c0670165ff2d">
+
+
+
